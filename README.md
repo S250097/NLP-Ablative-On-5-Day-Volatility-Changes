@@ -21,9 +21,9 @@ Ideally in handling time-series data a rolling training and re-training window s
 ## References:  
 
 1: Eugene F. Fama. Efficient Capital Markets: A Review of Theory and Empirical Work. pp. 11
-https://people.hec.edu/rosu/wp-content/uploads/sites/43/2023/09/Fama-Efficient-capital-markets-1970.pdf
+https://people.hec.edu/rosu/wp-content/uploads/sites/43/2023/09/Fama-Efficient-capital-markets-1970.pdf  
 2: Jürgen Klaus, Christoph Koser. Measuring Trump: The Volfefe Index and its impact on European financial markets. Finance Research Letters, Volume 38, January 2021.
-https://www.sciencedirect.com/science/article/pii/S1544612319313674
+https://www.sciencedirect.com/science/article/pii/S1544612319313674  
 3: Ilias Filippoua, Arie E. Gozluklub, My T. Nguyenc, Ganesh Viswanath-Natraj. Signal in the noise:Trump tweets and the currency market. Journal of International Money and Finance, Volume 156, June 2025. 
 https://www.sciencedirect.com/science/article/pii/S0261560625000786?via%3Dihub
 
